@@ -5,7 +5,8 @@ KEYWORDS = ["anuv jain"]  # ആർട്ടിസ്റ്റിൻ്റെ പ
 PLACES = ["kochi", "kerala", "cochin", "trivandrum", "thiruvananthapuram",
           "kozhikode", "calicut", "thrissur"]
 URLS = [
-    "PASTE_LINK_1",
+    "Everything you want to know about Anuv Jain https://in.bookmyshow.com/person/anuv-jain/2009697 
+ via @BookMyShow,
     # "PASTE_LINK_2",
 ]
 # --------------------------------
